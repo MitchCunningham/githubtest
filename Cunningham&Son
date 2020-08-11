@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="2styles.css">
+    <title>CunninghamAndSon</title>
+<body>
+    <header>
+        <h1>CunninghamAndSon</h1>
+    </header>
+    <section class="banner">
+        <div class="mainlogo">
+        <img src="/img/logo.png" alt="Welcome to CunninghamAndSon!"
+        width="250" height="250">
+        </div>
+        <div class="welcome">
+            <h2>Welcome to <span>our page!</span></h2>
+        </div>
+    </section>
+    <nav class="Mainnav">
+        <ul>
+            <li><a href="/forsale.html">For sale</a></li>
+            <li><a href="/aboutus.html">About us</a></li>
+            <li><a href="/ourstory.html">Our story</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+        </ul>
+    </nav>
+<main>
+    <article>
+        <h1>Here are some of the products that we make</h1>
+        <p>Most of our products come from widely recycled oak, ash and mahogany mainly stripped
+            from old kitchens and various other parts of the houses that we work on,
+            we believe in providing the best service to our customer's from the quality
+            of our work to the customer care after purchase.
+        </p>
+    </article>
+</main>
+    <br><br>
+    <ul class="mainimages"> 
+        <li><img src="/img/chair.jpg" alt="Chair" width="300px" height="300px"> </li>
+        <li><img src="/img/hatrail.jpg" alt="HatRail" width="300px" height="300px"> </li>
+    </ul>
+    <article class="join">
+    <h2>Join today!</h2>
+    <p>Join to our newsletter feed, to keep up to date on new products and more! Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto, itaque in laboriosam ipsam aut error totam tenetur perspiciatis necessitatibus dolores. Voluptas quasi voluptatibus consequuntur ipsum pariatur sint quis nemo vel? Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium necessitatibus debitis quam impedit! Saepe, minus maxime aliquid dolor voluptates placeat deleniti sapiente magni laudantium necessitatibus soluta consequatur nulla, quae labore.</p>
+    </article>
+
+    <br><br>
+
+    <footer>Copyright CunninghamAndSon 2020</footer>
+</body>
+
+</head>
+</html>
